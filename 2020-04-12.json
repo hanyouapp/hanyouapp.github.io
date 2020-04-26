@@ -1,0 +1,82 @@
+[{
+    "articles": [
+      {
+        "image_url": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/14D66/production/_103405358_af820290-c920-4716-b847-fb098936e532.jpg", 
+        "parsed_text": "", 
+        "publish_date": "2019-12-10", 
+        "text": "", 
+        "title": "\u6602\u5c71\u7d20\u5b63\uff1a\u4ece\u201c\u4eba\u6743\u6597\u58eb\u201d\u5230\u201c\u79cd\u65cf\u5c60\u6740\u201d\u8fa9\u62a4\u8005", 
+        "url": "https://www.bbc.com/zhongwen/simp/world-50729180"
+      }
+    ], 
+    "string": [
+      "\u7f05\u7538"
+    ], 
+    "word_ids": [
+      [
+        "\u7dec\u7538", 
+        "\u7f05\u7538", 
+        "mi\u0103n di\u00e0n"
+      ]
+    ], 
+    "words": [
+      {
+        "definitions": [
+          {
+            "def": "Myanmar (or Burma)", 
+            "source": "cedict"
+          }, 
+          {
+            "def": "Myanmar; sovereign state in Southeast Asia", 
+            "source": "wikidata"
+          }
+        ], 
+        "id": [
+          "\u7dec\u7538", 
+          "\u7f05\u7538", 
+          "mi\u0103n di\u00e0n"
+        ]
+      }
+    ]
+  }, 
+  {
+    "articles": [
+      {
+        "image_url": "img3.chinadaily.com.cn/images/201912/11/5df04ca2a31099ab43d79559.jpeg", 
+        "parsed_text": "", 
+        "publish_date": "2019-12-11", 
+        "text": "", 
+        "title": "\u201c\u4e2d\u534e\u540d\u697c\u201d\u9ec4\u9e64\u697c\u91cd\u73b0\u5b8b\u6e05\u65f6\u671f\u88ab\u6bc1\u201c\u524d\u8eab\u201d", 
+        "url": "http://cn.chinadaily.com.cn/a/201912/11/WS5df03b7aa31099ab995f0cf5.html"
+      }
+    ], 
+    "string": [
+      "\u6444"
+    ], 
+    "word_ids": [
+      [
+        "\u651d", 
+        "\u6444", 
+        "sh\u00e8"
+      ]
+    ], 
+    "words": [
+      {
+        "definitions": [
+          {
+            "def": "absorb, assimilate, take photograph of, shoot, conserve (one's health), act for\n", 
+            "source": "wiktionary frequency"
+          }, 
+          {
+            "def": "to take in/to absorb/to assimilate/to act for/to take a photo/photo shoot/photo/to conserve (one's health)", 
+            "source": "cedict"
+          }
+        ], 
+        "id": [
+          "\u651d", 
+          "\u6444", 
+          "sh\u00e8"
+        ]
+      }
+    ]
+  }]
