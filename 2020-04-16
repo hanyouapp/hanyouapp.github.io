@@ -1,0 +1,139 @@
+[  {
+    "articles": [
+      {
+        "image_url": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/15520/production/_110082378_63a19df7-6f1d-4d9d-a249-50bec0c92ac9.jpg", 
+        "parsed_text": "", 
+        "publish_date": "2019-12-11", 
+        "text": "", 
+        "title": "\u6700\u5e74\u5e7c\u5927\u5b66\u751f\u68a6\u60f3\u7834\u706d \u6bd4\u5229\u65f69\u5c81\u7537\u7ae5\u9000\u5b66", 
+        "url": "https://www.bbc.com/zhongwen/simp/world-50743383"
+      }
+    ], 
+    "string": [
+      "\u5c81"
+    ], 
+    "word_ids": [
+      [
+        "\u6b72", 
+        "\u5c81", 
+        "su\u00ec"
+      ], 
+      [
+        "\u5d57", 
+        "\u5c81", 
+        "su\u00ec"
+      ]
+    ], 
+    "words": [
+      {
+        "definitions": [
+          {
+            "def": "year (for crops), m.[standard], , year of age, year (of age), year, annum, year for crops\n", 
+            "source": "wiktionary frequency"
+          }, 
+          {
+            "def": "classifier for years (of age)/year/year (of crop harvests)", 
+            "source": "cedict"
+          }, 
+          {
+            "def": "years old; unit for age", 
+            "source": "wikidata"
+          }, 
+          {
+            "def": "(Latin) year; \"per annum\"", 
+            "pos": "noun", 
+            "source": "wordnet", 
+            "source_words": "annum"
+          }, 
+          {
+            "def": "year", 
+            "source": "wordnet", 
+            "source_words": "annum"
+          }, 
+          {
+            "def": "a period of time occupying a regular part of a calendar year that is used for some particular activity", 
+            "source": "wordnet", 
+            "source_words": "year"
+          }
+        ], 
+        "id": [
+          "\u6b72", 
+          "\u5c81", 
+          "su\u00ec"
+        ]
+      }, 
+      {
+        "definitions": [
+          {
+            "def": "variant of \u6b72|\u5c81[su\u00ec], year/years old", 
+            "source": "cedict"
+          }
+        ], 
+        "id": [
+          "\u5d57", 
+          "\u5c81", 
+          "su\u00ec"
+        ]
+      }
+    ]
+  }, 
+  {
+    "articles": [
+      {
+        "image_url": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/1014C/production/_110086856_bougainville.jpg", 
+        "parsed_text": "", 
+        "publish_date": "2019-12-11", 
+        "text": "", 
+        "title": "\u5357\u592a\u5e73\u6d0b\u5c9b\u5c7f\u516c\u6295\u652f\u6301\u72ec\u7acb \u6216\u6210\u4e3a\u4e16\u754c\u6700\u65b0\u56fd\u5bb6", 
+        "url": "https://www.bbc.com/zhongwen/simp/world-50743913"
+      }
+    ], 
+    "string": [
+      "\u72ec\u7acb"
+    ], 
+    "word_ids": [
+      [
+        "\u7368\u7acb", 
+        "\u72ec\u7acb", 
+        "d\u00fa l\u00ec"
+      ]
+    ], 
+    "words": [
+      {
+        "definitions": [
+          {
+            "def": "stand alone\n", 
+            "source": "wiktionary frequency"
+          }, 
+          {
+            "def": "independent/independence/to stand alone", 
+            "source": "cedict"
+          }, 
+          {
+            "def": "independence; condition of a nation, country, or state  which exercises self-government, and usually sovereignty, over the territory", 
+            "source": "wikidata"
+          }, 
+          {
+            "def": "Independente Futebol Clube", 
+            "source": "wikidata"
+          }, 
+          {
+            "def": "immunity from arbitrary exercise of authority: political independence", 
+            "pos": "noun", 
+            "source": "wordnet", 
+            "source_words": "autonomy, liberty"
+          }, 
+          {
+            "def": "freedom from control or influence of another or others", 
+            "source": "wordnet", 
+            "source_words": "independency, independence"
+          }
+        ], 
+        "id": [
+          "\u7368\u7acb", 
+          "\u72ec\u7acb", 
+          "d\u00fa l\u00ec"
+        ]
+      }
+    ]
+  }]
